@@ -2,3 +2,4 @@
 ^renv\.lock$
 ^rmedicine\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
